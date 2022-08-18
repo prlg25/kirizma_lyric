@@ -117,4 +117,4 @@
     ```
 
 ## Thanks
-    * izkdic
+* [izkdic](https://vorhandensein.sakura.ne.jp)
