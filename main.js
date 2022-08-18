@@ -27,9 +27,7 @@ function main() {
     const lyricFadeFrame = 26
     console.log(lyricTextsArray[0]);
     console.log(dosArray[1]);
-    // これをHTMLの入力から指定できるようにしたい
     const lyricTimingDataName = dataLoad("input3");
-    // reg = new RegExp('[\\s\\w]+(' + strlist.join('|') + ')', 'i');
     const lyricTimingDataRegex = new RegExp(lyricTimingDataName + `[0-9]*_data`);
     console.log(dos.search(lyricTimingDataRegex));
     let lyricTimingDataFrames = dosArray.find(element => element.search(lyricTimingDataRegex) !== -1);
