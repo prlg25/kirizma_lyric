@@ -1,5 +1,10 @@
 # キリズマ歌詞表示作成ツール
 
+* [https://prlg25.github.io/kirizma_lyric/](https://prlg25.github.io/kirizma_lyric/)
+
+## これはなに
+* [キリズマ](https://suzme.github.io/kirizma/)の歌詞表示を作るツールです。
+
 ## 使い方
 1. キリズマ公開ページのHTMLのCSSに以下のような記述を追加します。
     * CSSをカスタマイズすれば色んな歌詞表示が実装できるはずです。
