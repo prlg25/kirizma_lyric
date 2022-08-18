@@ -69,8 +69,7 @@
     * 指定したデータだけでもOKですがいっぺんに張り付けても大丈夫なはずです。
     ```
     |left_data=|down_data=|up_data=|right_data=239,733,980,1226,1473,1700,1926,2173,2687,2913,3000|space_data=|frzLeft_data=|frzDown_data=|frzUp_data=|frzRight_data=|frzSpace_data=|
-|speed_data=|boost_data=|
-
+    |speed_data=|boost_data=|
     ```
 
 1. Goを押すと歌詞データ(mask_data)が出力されるのでdosにコピペします。
