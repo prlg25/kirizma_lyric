@@ -12,6 +12,7 @@
     ```css
     .lyric {
     font-size: 22px;
+    color: #FFFFFF;
     }
     @keyframes lyricin1{
         0%{
